@@ -48,7 +48,7 @@ Pre-requisites:
 
 ```sh
 # clone the repository
-git clone https://github.com/edublancas/ploomber-workshop
+git clone https://github.com/idomic/ploomber-workshop
 cd ploomber-workshop
 
 # install dependencies (requires conda)
