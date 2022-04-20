@@ -11,7 +11,7 @@ This workshop demonstrates how to develop reproducible pipelines using [Ploomber
 To start, [click here](https://mybinder.org/v2/gh/idomic/ploomber-workshop/main?urlpath=lab/tree/index.ipynb) or on the button below:
 
 <p align="center">
-  <a href="https://mybinder.org/v2/gh/edublancas/ploomber-workshop/main?urlpath=lab/tree/index.ipynb"> <img src="_static/workshop.svg" alt="Start Workshop"> </a>
+  <a href="https://mybinder.org/v2/gh/idomic/ploomber-workshop/main?urlpath=lab/tree/index.ipynb"> <img src="_static/workshop.svg" alt="Start Workshop"> </a>
 </p>
 
 **Note:** It may take a few seconds for the notebook to load.
